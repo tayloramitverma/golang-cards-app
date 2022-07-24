@@ -1,3 +1,3 @@
-module github.com/tayloramitverma/golang-basic
+module github.com/tayloramitverma/cards-golang
 
 go 1.17
